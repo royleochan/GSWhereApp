@@ -10,6 +10,14 @@
       "StackName": "amplify-gswhere-dev-172344",
       "StackId": "arn:aws:cloudformation:us-east-1:791543935128:stack/amplify-gswhere-dev-172344/82672830-fdd6-11ec-9334-0af0e7f56f01",
       "AmplifyAppId": "dih91bczf5ufv"
+    },
+    "categories": {
+      "function": {
+        "healthcheckLambda": {
+          "deploymentBucketName": "amplify-gswhere-dev-172344-deployment",
+          "s3Key": "amplify-builds/healthcheckLambda-63564a6355445033676e-build.zip"
+        }
+      }
     }
   }
 }
