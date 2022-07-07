@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/healthcheck": {
+      "name": "/healthcheck",
+      "lambdaFunction": "healthcheckLambda",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
